@@ -35,7 +35,7 @@ function Register() {
     }
     return (
         <>
-            <h1 className='display-5 text-center'>Employee Registration updated form </h1>
+            <h1 className='display-5 text-center'>Employee Registration pulled from github </h1>
             <div>
                 <form action="" >
                     <Table >
