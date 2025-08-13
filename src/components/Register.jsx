@@ -35,7 +35,7 @@ function Register() {
     }
     return (
         <>
-            <h1 className='display-5 text-center'>Employee Registration </h1>
+            <h1 className='display-5 text-center'>Employee Registration for nest.js (form) </h1>
             <div>
                 <form action="" >
                     <Table >
