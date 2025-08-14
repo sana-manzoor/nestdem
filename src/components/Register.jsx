@@ -36,6 +36,7 @@ function Register() {
     return (
         <>
             <h1 className='display-5 text-center'>Employee Registration changed in dev_sana </h1>
+            <h2>I added another column for stash</h2>
             <div>
                 <form action="" >
                     <Table >
