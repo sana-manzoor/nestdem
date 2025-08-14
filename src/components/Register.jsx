@@ -36,7 +36,7 @@ function Register() {
     return (
         <>
             <h1 className='display-5 text-center'>Employee Registration changed in dev_sana </h1>
-            <h2>I added another column for stash</h2>
+            <h2>I added another column</h2>
             <h1 className='display-5 text-center'>Employee Registration changed from source tree</h1>
             <div>
                 <form action="" >
